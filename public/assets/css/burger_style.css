@@ -1,0 +1,35 @@
+body {
+  background-color:   #ffa333;
+}
+
+img {
+  width: 15%;
+}
+
+.font {
+  color: #A52A2A;
+}
+
+.tiny_text {
+  font-size: 11px;
+  color: #5da82f;
+}
+
+.jumbotron {
+  background: #ffc680;
+}
+
+.divColor {
+  
+  
+
+}
+
+ul {
+  padding: 5px;
+  margin: 25px;
+  list-style: none;
+  font-size: 24px;
+
+}
+
